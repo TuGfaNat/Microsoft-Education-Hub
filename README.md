@@ -1,6 +1,6 @@
 # 🎓 Microsoft Education Hub
 
-¡Bienvenido al **Microsoft Education Hub**! Este es un espacio colaborativo dedicado a promover educación tecnológica de calidad y conectar estudiantes, docentes y profesionales con recursos, eventos y oportunidades relacionadas con la tecnología Microsoft.
+¡Bienvenido a **Microsoft Education Hub**! Este es un espacio colaborativo dedicado a promover educación tecnológica de calidad y conectar estudiantes, docentes y profesionales con recursos, eventos y oportunidades relacionadas con la tecnología Microsoft.
 
 ## 🌟 ¿Quiénes Somos?
 
@@ -43,7 +43,7 @@ El **Microsoft Education Hub** opera a **nivel nacional**, llegando a:
 - 🏫 Instituciones educativas en múltiples ciudades
 - 👨‍💼 Profesionales independientes de todo el país
 - 🌐 Estudiantes de pregrado, posgrado y educación continua
-- 🤝 Más de [X] miembros activos en nuestra comunidad
+- 🤝 Muchos miembros activos en nuestra comunidad
 
 Nuestro impacto se extiende a través de:
 - Plataforma de colaboración online
@@ -71,7 +71,7 @@ Nuestro impacto se extiende a través de:
 3. Colabora en iniciativas de capacitación
 4. Sé parte de nuestra red profesional
 
-## 📂 Estructura del Repositorio
+## 📂 Estructura del Repositorio (que iremos actualizando constantemente)
 
 - `/eventos` - Información y materiales de eventos pasados y futuros
 - `/recursos` - Guías, tutoriales y materiales educativos
@@ -80,10 +80,10 @@ Nuestro impacto se extiende a través de:
 
 ## 💬 Comunidad y Comunicación
 
-- **Discord**: [Link a servidor Discord]
-- **LinkedIn**: [Página oficial]
-- **Email**: [contacto@microsofteducationhub.com]
-- **GitHub Discussions**: Úsalo para preguntas y debates
+- **Facebook**: [Microsoft Education Hub](https://www.facebook.com/microsoft.education.hub)
+- **Instagram**: [@microsoft_education_hub](https://www.instagram.com/microsoft_education_hub/)
+- **LinkedIn**: [Microsoft Education Hub](https://linkedin.com/company/microsoft-education-hub)
+- **TikTok**: [@microsoft_education_hub](https://www.tiktok.com/@microsoft_education_hub?is_from_webapp=1&sender_device=pc)
 
 ## 🤝 Código de Conducta
 
@@ -102,15 +102,23 @@ Nos comprometemos a mantener un ambiente inclusivo, respetuoso y seguro. Todos l
 4. **Conecta** con otros miembros
 5. **Contribuye** compartiendo tu conocimiento
 
-## 📞 ¿Preguntas o Sugerencias?
+## 👤 Contactos
 
-Si tienes dudas o deseas contribuir:
-- Abre un [Issue](https://github.com/TuGfaNat/Microsoft-Education-Hub/issues)
-- Envía un [Pull Request](https://github.com/TuGfaNat/Microsoft-Education-Hub/pulls)
-- Contacta a los administradores
+
+| Nombre | Email | GitHub Handle |
+|--------|-------|----------------|
+| Nataly Gemio | natalygemio@gmail.com | [@TuGfaNat](https://github.com/TuGfaNat) |
+| Jesus Soto | jesusescar123@gmail.com | - |
+| Albert Quisbert | albertjhon.128@gmail.com | - |
+| Alejandro Zalles | zallesrene@gmail.com | - |
+| Fernan Apaza | fernanapazamamani1@gmail.com | - |
+| Yersson Fernández | yersson_9876@hotmail.com | - |
+| Dana Azturizaga | danaasturizaga@gmail.com | - |
+| Ivan Fernández | ivan.fernandez.esp@hotmail.com | - |
+| Ariel Murillo | arielmurillodlb@gmail.com | - |
 
 ---
 
-**¡Gracias por ser parte del Microsoft Education Hub! Juntos construimos una comunidad de aprendizaje continuo y excelencia tecnológica.** 🚀
+**¡Gracias por ser parte de Microsoft Education Hub! Juntos construimos una comunidad de aprendizaje continuo y excelencia tecnológica.** 🚀
 
 *Última actualización: Mayo 2026*
